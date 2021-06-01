@@ -1,0 +1,168 @@
+\documentclass[12pt]{article}
+\author{}
+\date{}
+
+\usepackage[shortlabels]{enumitem}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\graphicspath{ {./images/} }
+
+\begin{document}
+    \title{\textbf{Application of AI on IT Service Management}}
+    \maketitle
+    \thispagestyle{empty}
+
+    \begin{figure}[h]
+        \includegraphics[scale=1.0]{EPITA.jpg}
+        \centering
+    \end{figure}
+    
+    \author{
+        \begin{center}
+            \centerline{Arun singh Sivaprakash}
+            \centerline{Pramod kumar Nagaraj}
+            \centerline{Van Tien NGUYEN}
+            \centerline{Alexander POPPE}
+        \end{center}
+    }
+
+    \centerline{EPITA Graduate School of Computer Science}
+    
+    \begin{center}
+        \centerline{Advisor}
+        \centerline{ Olivier Berthet}
+    \end{center}
+
+    \begin{center}
+        Master of Science in Artificial Intelligence Systems
+    \end{center}
+
+    \begin{center}
+        \date{07-July-2021}
+    \end{center}
+
+    \newpage
+    \setcounter{page}{1}
+
+    \section*{Introduction}
+    Here is the introduction of our Thesis
+
+    \section*{State of Art}
+
+    Natural Language Processing includes three main stages:
+
+    \begin{enumerate}
+
+        \item Text Processing
+        \begin{enumerate}[a.]
+            
+            \item Data Cleaning
+            \newline Here we remove special characters (ie. "@", "!",\dots), html tags (ie. "/h1", "/span",\dots)
+            from the raw text as they do not contain any information for the model 
+            to learn and are irrelevant or noisy data.
+            
+            \item Data Normalization
+            \newline Data normalization involes steps such as case normalization, punctuation removal,\dots so that 
+            the text is in a single format for the machine to learn.
+            
+            \item Punctuaion Removal
+            \newline Replace punctuation with space.
+                
+            \item Tokenization (NLTK)
+            \newline Tokenization is the process of breaking up text documents into individual words called tokens.
+
+            \item Stop Word Removal
+            \newline In this step, we remove all non-important words like "a", "is", "the", "and",\dots 
+            \newline There is an in-built stopword list in NLTK which we can use to remove them from the text documents. 
+            However, this is not the standard stopwords list for all problem. In our project, we need to define our own set of 
+            stopwords.
+
+            \item Parts of Speech Tagging (POS)
+            \newline Determine POS tags for each word (ie. noun, verb, adverb,\dots). 
+            We can also use the in-built part of speech tag provided by NLTK.
+           
+            \item Named Entity Recognition
+            \newline In information extraction, a named entity is a real-world object, 
+            such as persons, locations, organizations, products,\dots, that can be denoted with a proper name. 
+            
+            \item Stemming
+            \newline Stemming is a process of reducing a word to its root form.
+
+            \item Lemmatization
+            \newline Lemmatization is a technique for reducing words to its normalized form. But in this case, 
+            the transformation actually uses a dictionary to map words to their actual form.
+
+        \end{enumerate}
+        
+
+        \item Feature Extraction
+        \newline This is a way of extracting feature vectors from the text after processing step 
+        so that it can be used in the machine learning model as input. This extracted feature from the text documents 
+        can be a wordnet of a grapth of nodes, a vector reprenting words.
+
+        \begin{enumerate}[a.]
+
+            \item Bag of Words (BoW)
+            \newline BoW is a way of extracting features from the text for use in modeling such as machine learning alogrithms. 
+            It treats each document as a collection/ bag of words.
+            \newline A BoW is a representation of text taht describes a occurrence of words within a document. It involves two things:
+            \begin{enumerate}
+                \item[\textbullet] A vocabulary of known words in the corpus/ set of documents.
+                \item[\textbullet] A measure of the presence of known words.
+            \end{enumerate}
+    
+            \item Term Frequency-Inverse Document Frequency (TF-IDF)
+            \begin{enumerate}
+                \item[\textbullet] Term Frequency is a numerical statistic taht is intended to reflect how 
+                important a word is to a document in a collection or corpus.
+                It is a measure of how frequently a term appears in a document.
+                
+                \item[\textbullet] IDF is a measure of how important a term is. We need the IDF because computing just the TF alone is 
+                not suffient to understand the importance of words. 
+            \end{enumerate}
+    
+        \end{enumerate}
+
+        \item Modeling
+        \newline The final stage of the NLP pipeline is modeling, which includes designing a statistical or machine learning model, 
+        fitting its parameters to training data, using an optimization procedure, and then using it to make predictions about unseen data.
+        Some of the machine learning algorithms used here are:
+        \begin{enumerate}[a.]
+            \item Clustering
+    
+            \item Neural network
+            \item Random Forest Classifier
+    
+        \end{enumerate}
+
+    \end{enumerate}
+
+
+    
+    \section*{System's Artchitecture}
+
+    
+    \section*{Methodology}
+
+
+    
+    \section*{Results}
+
+
+    
+    \section*{Conclusion}
+
+    
+    \section*{References}
+
+
+    \begin{thebibliography}{9}
+        \bibitem{wikipedia website}
+        \href{https://en.wikipedia.org/wiki/Natural_language_processing}{Wikipeida: Natural language processing}
+
+        
+        \bibitem{website}
+        \href{https://www.gyansetu.in/what-is-natural-language-processing/}{Article: iClass Gyansetu}
+    \end{thebibliography}
+
+\end{document}
