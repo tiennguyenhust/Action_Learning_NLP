@@ -467,6 +467,10 @@ INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tf
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
 OUTPUT e:\Action Learning\Thesis\Thesis.toc
+INPUT e:\Action Learning\Thesis\Thesis.lof
+INPUT e:\Action Learning\Thesis\Thesis.lof
+INPUT e:\Action Learning\Thesis\Thesis.lof
+OUTPUT e:\Action Learning\Thesis\Thesis.lof
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT .\images\\nlp_pipeline.png
 INPUT .\images\\nlp_pipeline.png
@@ -505,6 +509,17 @@ INPUT .\images\\System's Artchitecture.png
 INPUT .\images\\System's Artchitecture.png
 INPUT .\images\\System's Artchitecture.png
 INPUT .\images\\System's Artchitecture.png
+INPUT .\images\\clustering_motho.png
+INPUT .\images\\clustering_motho.png
+INPUT images\\clustering_motho.png
+INPUT .\images\\clustering_motho.png
+INPUT .\images\\clustering_motho.png
+INPUT .\images\\clustering_motho.png
+INPUT .\images\\clustering_motho.png
+INPUT e:\Action Learning\Thesis\Thesis.bbl
+INPUT e:\Action Learning\Thesis\Thesis.bbl
+INPUT e:\Action Learning\Thesis\Thesis.bbl
+INPUT e:\Action Learning\Thesis\Thesis.bbl
 INPUT e:\Action Learning\Thesis\Thesis.aux
 INPUT e:\Action Learning\Thesis\Thesis.out
 INPUT e:\Action Learning\Thesis\Thesis.out
