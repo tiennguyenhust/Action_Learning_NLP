@@ -2,17 +2,17 @@ PWD e:\Action Learning\Thesis
 INPUT C:\Users\Admin\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
 INPUT e:\Action Learning\Thesis\Thesis.tex
 OUTPUT e:\Action Learning\Thesis\Thesis.log
-INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\size12.clo
@@ -424,15 +424,12 @@ INPUT e:\Action Learning\Thesis\Thesis.out
 INPUT e:\Action Learning\Thesis\Thesis.out
 INPUT e:\Action Learning\Thesis\Thesis.out
 INPUT e:\Action Learning\Thesis\Thesis.out
+OUTPUT e:\Action Learning\Thesis\Thesis.pdf
 INPUT e:\Action Learning\Thesis\Thesis.out
 INPUT e:\Action Learning\Thesis\Thesis.out
 OUTPUT e:\Action Learning\Thesis\Thesis.out
-OUTPUT e:\Action Learning\Thesis\Thesis.pdf
-INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
-INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
-INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT .\images\\EPITA.jpg
 INPUT .\images\\EPITA.jpg
 INPUT images\\EPITA.jpg
@@ -443,13 +440,62 @@ INPUT .\images\\EPITA.jpg
 INPUT C:\Users\Admin\AppData\Local\MiKTeX\pdftex\config\pdftex.map
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1200.tfm
+INPUT e:\Action Learning\Thesis\Thesis.toc
+INPUT e:\Action Learning\Thesis\Thesis.toc
+INPUT e:\Action Learning\Thesis\Thesis.toc
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+OUTPUT e:\Action Learning\Thesis\Thesis.toc
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT .\images\\nlp_pipeline.png
+INPUT .\images\\nlp_pipeline.png
+INPUT images\\nlp_pipeline.png
+INPUT .\images\\nlp_pipeline.png
+INPUT .\images\\nlp_pipeline.png
+INPUT .\images\\nlp_pipeline.png
+INPUT .\images\\nlp_pipeline.png
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT .\images\\bow.png
+INPUT .\images\\bow.png
+INPUT images\\bow.png
+INPUT .\images\\bow.png
+INPUT .\images\\bow.png
+INPUT .\images\\bow.png
+INPUT .\images\\bow.png
+INPUT .\images\\tf-idf.png
+INPUT .\images\\tf-idf.png
+INPUT images\\tf-idf.png
+INPUT .\images\\tf-idf.png
+INPUT .\images\\tf-idf.png
+INPUT .\images\\tf-idf.png
+INPUT .\images\\tf-idf.png
 INPUT e:\Action Learning\Thesis\Thesis.aux
 INPUT e:\Action Learning\Thesis\Thesis.out
 INPUT e:\Action Learning\Thesis\Thesis.out
-INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
-INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy6.pfb
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy6.pfb
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb

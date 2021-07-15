@@ -1,21 +1,22 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.24)  2 JUN 2021 01:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.24)  15 JUL 2021 03:16
 entering extended mode
 **"e:/Action Learning/Thesis/Thesis.tex"
 ("e:/Action Learning/Thesis/Thesis.tex"
 LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-01-09> xparse <2020-03-03> (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+L3 programming layer <2021-01-09> xparse <2020-03-03> (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2020/04/10 v1.4m Standard LaTeX document class
 (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
 \c@part=\count177
-\c@section=\count178
-\c@subsection=\count179
-\c@subsubsection=\count180
-\c@paragraph=\count181
-\c@subparagraph=\count182
-\c@figure=\count183
-\c@table=\count184
+\c@chapter=\count178
+\c@section=\count179
+\c@subsection=\count180
+\c@subsubsection=\count181
+\c@paragraph=\count182
+\c@subparagraph=\count183
+\c@figure=\count184
+\c@table=\count185
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
@@ -26,8 +27,8 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@outerparindent=\dimen139
 \enit@toks=\toks16
 \enit@inbox=\box47
-\enit@count@id=\count185
-\enitdp@description=\count186
+\enit@count@id=\count186
+\enitdp@description=\count187
 ) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
  (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
@@ -76,8 +77,8 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen142
-\Hy@linkcounter=\count187
-\Hy@pagecounter=\count188
+\Hy@linkcounter=\count188
+\Hy@pagecounter=\count189
  (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -87,7 +88,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count189
+\Hy@SavedSpaceFactor=\count190
 Package hyperref Info: Hyper figures OFF on input line 4464.
 Package hyperref Info: Link nesting OFF on input line 4469.
 Package hyperref Info: Hyper index ON on input line 4472.
@@ -95,7 +96,7 @@ Package hyperref Info: Plain pages OFF on input line 4479.
 Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4717.
-\c@Hy@tempcnt=\count190
+\c@Hy@tempcnt=\count191
  (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
@@ -107,7 +108,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count191
+\Fld@menulength=\count192
 \Field@Width=\dimen144
 \Fld@charsize=\dimen145
 Package hyperref Info: Hyper figures OFF on input line 6347.
@@ -123,9 +124,9 @@ LaTeX Info: Redefining \pageref on input line 6421.
 Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi package
 with kernel methods
 )
-\Hy@abspage=\count192
-\c@Item=\count193
-\c@Hfootnote=\count194
+\Hy@abspage=\count193
+\c@Item=\count194
+\c@Hfootnote=\count195
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
@@ -134,8 +135,8 @@ File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery package
 with kernel methods
 )
-\Fld@listcount=\count195
-\c@bookmark@seq@number=\count196
+\Fld@listcount=\count196
+\c@bookmark@seq@number=\count197
  (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
  (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
@@ -146,7 +147,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 \Hy@SectionHShift=\skip50
 ) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count197
+\l__kernel_color_stack_int=\count198
 \l__pdf_internal_box=\box48
 ) ("e:/Action Learning\Thesis\Thesis.aux")
 \openout1 = `Thesis.aux'.
@@ -169,16 +170,16 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
  (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count198
+\scratchcounter=\count199
 \scratchdimen=\dimen146
 \scratchbox=\box49
-\nofMPsegments=\count199
-\nofMParguments=\count266
+\nofMPsegments=\count266
+\nofMParguments=\count267
 \everyMPshowfont=\toks18
-\MPscratchCnt=\count267
+\MPscratchCnt=\count268
 \MPscratchDim=\dimen147
-\MPnumerator=\count268
-\makeMPintoPDFobject=\count269
+\MPnumerator=\count269
+\makeMPintoPDFobject=\count270
 \everyMPtoPDFconversion=\toks19
 ) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -192,7 +193,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count270
+\c@section@level=\count271
 )
 LaTeX Info: Redefining \ref on input line 10.
 LaTeX Info: Redefining \pageref on input line 10.
@@ -201,37 +202,103 @@ LaTeX Info: Redefining \nameref on input line 10.
 \@outlinefile=\write3
 \openout3 = `Thesis.out'.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 13.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 13.
-<./images//EPITA.jpg, id=3, 174.4335pt x 117.9315pt>
+<./images//EPITA.jpg, id=47, 174.4335pt x 117.9315pt>
 File: ./images//EPITA.jpg Graphic file (type jpg)
 <use ./images//EPITA.jpg>
-Package pdftex.def Info: ./images//EPITA.jpg  used on input line 16.
+Package pdftex.def Info: ./images//EPITA.jpg  used on input line 19.
 (pdftex.def)             Requested size: 174.43306pt x 117.9312pt.
  [1
 
-{C:/Users/Admin/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./images//EPITA.jpg>]pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+{C:/Users/Admin/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./images//EPITA.jpg>] ("e:/Action Learning\Thesis\Thesis.toc"
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+)
+\tf@toc=\write4
+\openout4 = `Thesis.toc'.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.88             \item S
-                        temming [1] [2] [3] ("e:/Action Learning\Thesis\Thesis.aux")
+l.55     \chapter
+                 {Introduction} [1
+
+]
+Chapter 1.
+[2
+
+]
+Chapter 2.
+<./images//nlp_pipeline.png, id=74, 1606.0pt x 441.65pt>
+File: ./images//nlp_pipeline.png Graphic file (type png)
+<use ./images//nlp_pipeline.png>
+Package pdftex.def Info: ./images//nlp_pipeline.png  used on input line 66.
+(pdftex.def)             Requested size: 289.06754pt x 79.49356pt.
+[3
+
+ <./images//nlp_pipeline.png (PNG copy)>]
+<./images//bow.png, id=80, 313.17pt x 40.15pt>
+File: ./images//bow.png Graphic file (type png)
+<use ./images//bow.png>
+Package pdftex.def Info: ./images//bow.png  used on input line 95.
+(pdftex.def)             Requested size: 313.16922pt x 40.14989pt.
+ [4 <./images//bow.png>]
+<./images//tf-idf.png, id=86, 317.185pt x 114.92938pt>
+File: ./images//tf-idf.png Graphic file (type png)
+<use ./images//tf-idf.png>
+Package pdftex.def Info: ./images//tf-idf.png  used on input line 109.
+(pdftex.def)             Requested size: 317.1842pt x 114.9291pt.
+ [5 <./images//tf-idf.png>]
+
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 127.
+
+
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 127.
+
+
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 129.
+
+[6] [7]
+Chapter 3.
+[8
+
+]
+Chapter 4.
+[9
+
+]
+Chapter 5.
+[10
+
+]
+Chapter 6.
+[11
+
+]
+Chapter 7.
+[12
+
+] [13
+
+] ("e:/Action Learning\Thesis\Thesis.aux")
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: C7A6AF0354A8F8E51E352BA8E431E24C;589.
  ) 
 Here is how much of TeX's memory you used:
- 5486 strings out of 479618
- 87405 string characters out of 2865026
- 388604 words of memory out of 3000000
- 22562 multiletter control sequences out of 15000+200000
- 406190 words of font info for 36 fonts, out of 3000000 for 9000
+ 5550 strings out of 479618
+ 88326 string characters out of 2865026
+ 391071 words of memory out of 3000000
+ 22611 multiletter control sequences out of 15000+200000
+ 408290 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,6n,74p,250b,584s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on "e:/Action Learning\Thesis\Thesis.pdf" (4 pages, 73602 bytes).
+ 71i,6n,74p,1050b,329s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on "e:/Action Learning\Thesis\Thesis.pdf" (14 pages, 335827 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 182 PDF objects out of 1000 (max. 8388607)
+ 34 named destinations out of 1000 (max. 500000)
+ 109 words of extra memory for PDF output out of 10000 (max. 10000000)
 
