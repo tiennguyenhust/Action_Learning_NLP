@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.24)  15 JUL 2021 03:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.24)  15 JUL 2021 22:48
 entering extended mode
 **"e:/Action Learning/Thesis/Thesis.tex"
 ("e:/Action Learning/Thesis/Thesis.tex"
@@ -145,29 +145,31 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
 \Hy@SectionHShift=\skip50
-) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 15.
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count198
 \l__pdf_internal_box=\box48
 ) ("e:/Action Learning\Thesis\Thesis.aux")
 \openout1 = `Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
  (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count199
@@ -184,8 +186,14 @@ LaTeX Font Info:    ... okay on input line 10.
 ) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package hyperref Info: Link coloring OFF on input line 10.
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+Package hyperref Info: Link coloring ON on input line 17.
  (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
@@ -195,27 +203,27 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count271
 )
-LaTeX Info: Redefining \ref on input line 10.
-LaTeX Info: Redefining \pageref on input line 10.
-LaTeX Info: Redefining \nameref on input line 10.
+LaTeX Info: Redefining \ref on input line 17.
+LaTeX Info: Redefining \pageref on input line 17.
+LaTeX Info: Redefining \nameref on input line 17.
  ("e:/Action Learning\Thesis\Thesis.out") ("e:/Action Learning\Thesis\Thesis.out")
 \@outlinefile=\write3
 \openout3 = `Thesis.out'.
 
-<./images//EPITA.jpg, id=47, 174.4335pt x 117.9315pt>
+<./images//EPITA.jpg, id=91, 174.4335pt x 117.9315pt>
 File: ./images//EPITA.jpg Graphic file (type jpg)
 <use ./images//EPITA.jpg>
-Package pdftex.def Info: ./images//EPITA.jpg  used on input line 19.
+Package pdftex.def Info: ./images//EPITA.jpg  used on input line 26.
 (pdftex.def)             Requested size: 174.43306pt x 117.9312pt.
  [1
 
 {C:/Users/Admin/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./images//EPITA.jpg>] ("e:/Action Learning\Thesis\Thesis.toc"
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 3.
+(Font)              <12> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 3.
+(Font)              <8> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 3.
+(Font)              <6> on input line 2.
 )
 \tf@toc=\write4
 \openout4 = `Thesis.toc'.
@@ -223,82 +231,105 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.55     \chapter
-                 {Introduction} [1
+l.61     \begin{abstract}
+                          [1
 
-]
+]pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.69     \end{abstract}
+                        [1]
 Chapter 1.
-[2
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.87     \chapter
+                 {State of Art} [1
 
-]
+] [2]
 Chapter 2.
-<./images//nlp_pipeline.png, id=74, 1606.0pt x 441.65pt>
+<./images//nlp_pipeline.png, id=135, 1606.0pt x 441.65pt>
 File: ./images//nlp_pipeline.png Graphic file (type png)
 <use ./images//nlp_pipeline.png>
-Package pdftex.def Info: ./images//nlp_pipeline.png  used on input line 66.
+Package pdftex.def Info: ./images//nlp_pipeline.png  used on input line 95.
 (pdftex.def)             Requested size: 289.06754pt x 79.49356pt.
 [3
 
  <./images//nlp_pipeline.png (PNG copy)>]
-<./images//bow.png, id=80, 313.17pt x 40.15pt>
+<./images//bow.png, id=141, 313.17pt x 40.15pt>
 File: ./images//bow.png Graphic file (type png)
 <use ./images//bow.png>
-Package pdftex.def Info: ./images//bow.png  used on input line 95.
+Package pdftex.def Info: ./images//bow.png  used on input line 124.
 (pdftex.def)             Requested size: 313.16922pt x 40.14989pt.
  [4 <./images//bow.png>]
-<./images//tf-idf.png, id=86, 317.185pt x 114.92938pt>
+<./images//tf-idf.png, id=148, 317.185pt x 114.92938pt>
 File: ./images//tf-idf.png Graphic file (type png)
 <use ./images//tf-idf.png>
-Package pdftex.def Info: ./images//tf-idf.png  used on input line 109.
+Package pdftex.def Info: ./images//tf-idf.png  used on input line 138.
 (pdftex.def)             Requested size: 317.1842pt x 114.9291pt.
  [5 <./images//tf-idf.png>]
 
-LaTeX Warning: Command \textellipsis invalid in math mode on input line 127.
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 156.
 
 
-LaTeX Warning: Command \textellipsis invalid in math mode on input line 127.
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 156.
 
 
-LaTeX Warning: Command \textellipsis invalid in math mode on input line 129.
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 158.
 
 [6] [7]
-Chapter 3.
-[8
+Overfull \hbox (1.49733pt too wide) in paragraph at lines 195--196
+\OT1/cmr/m/n/12 Data vi-su-al-iza-tion al-lows busi-ness users to gain in-sight into their vast amounts
+ []
 
-]
+[8] [9]
+Chapter 3.
+<./images//dashboard.png, id=186, 596.2275pt x 420.97275pt>
+File: ./images//dashboard.png Graphic file (type png)
+<use ./images//dashboard.png>
+Package pdftex.def Info: ./images//dashboard.png  used on input line 219.
+(pdftex.def)             Requested size: 298.11302pt x 210.48586pt.
+<./images//System's Artchitecture.png, id=188, 503.8825pt x 323.2075pt>
+File: ./images//System's Artchitecture.png Graphic file (type png)
+<use ./images//System's Artchitecture.png>
+Package pdftex.def Info: ./images//System's Artchitecture.png  used on input line 226.
+(pdftex.def)             Requested size: 251.94063pt x 161.60335pt.
+[10
+
+ <./images//dashboard.png>] [11 <./images//System's Artchitecture.png>]
 Chapter 4.
-[9
+[12
 
 ]
 Chapter 5.
-[10
+[13
 
 ]
 Chapter 6.
-[11
+[14
 
 ]
 Chapter 7.
-[12
+[15
 
-] [13
+] [16
 
 ] ("e:/Action Learning\Thesis\Thesis.aux")
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: C7A6AF0354A8F8E51E352BA8E431E24C;589.
+(rerunfilecheck)             Checksum: 0096BA6EC72DCDF2799EED44CA20EDCC;1401.
  ) 
 Here is how much of TeX's memory you used:
- 5550 strings out of 479618
- 88326 string characters out of 2865026
- 391071 words of memory out of 3000000
- 22611 multiletter control sequences out of 15000+200000
+ 5640 strings out of 479618
+ 89880 string characters out of 2865026
+ 392978 words of memory out of 3000000
+ 22675 multiletter control sequences out of 15000+200000
  408290 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,6n,74p,1050b,329s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 71i,7n,74p,1050b,345s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on "e:/Action Learning\Thesis\Thesis.pdf" (14 pages, 335827 bytes).
+Output written on "e:/Action Learning\Thesis\Thesis.pdf" (19 pages, 426587 bytes).
 PDF statistics:
- 182 PDF objects out of 1000 (max. 8388607)
- 34 named destinations out of 1000 (max. 500000)
- 109 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 274 PDF objects out of 1000 (max. 8388607)
+ 54 named destinations out of 1000 (max. 500000)
+ 207 words of extra memory for PDF output out of 10000 (max. 10000000)
 

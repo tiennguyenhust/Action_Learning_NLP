@@ -6,6 +6,13 @@
 \usepackage{graphicx}
 \usepackage{hyperref}
 \graphicspath{ {./images/} }
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    pdfpagemode=FullScreen,
+    }
 
 \begin{document}
     \begin{titlepage}
@@ -51,9 +58,31 @@
     \setcounter{page}{1}
     \tableofcontents
 
+    \begin{abstract}
+        Large enterprise Information technology infrastructure components generate large volume of alerts and incident tickets. These are manually screened, but it is otherwise difficult to extract information automatically from them to gain insight in order to improve operational efficiency. We propose a framework to cluster alters and incident tickets based on the text in them, using unsupervised machine learning. This would be a step towards eliminating manual classification of the alters and incidents, which is very labour intense and costly.
+        \newline
+        The challenges that arrive at analysing huge amount text data starts with the data quality. Data quality metrics concerning the interpretation of text are too difficult to compute automatically and too pragmatic because they heavily depend on the linguistic content and the specific situation in which the text is being used. Several statistical approaches have been used to determine some level of data quality in this project.   
+        \newline
+        The visual representation of text data helps to bring more insights from the data. Building dashboard with various filters will help the users to customize the search. We have implemented state of art visualization dashboards with different open-source tools.
+        \newline
+        We proposed the techniques to visualize the clusters that make human readable in an easy and understandable way compared to the traditional methods, we find a simple way to define prototype of cluster for easy interpretation. This framework for clustering and visualization will enable enterprises to prioritize the issue in their IT infrastructure and improve the reliability and availability of their services.
+    \end{abstract}
 
     \chapter{Introduction}
-    Here is the introduction of our Thesis
+    \section{Motivations}
+    Organization of all sizes struggles with a common problem in Infrastructure and Operational Management. Thousands of automated alerts with semi-structure text are generated every day from hundreds of infrastructure tools. There are thousands of incidents tickets with manually entered unstructured text are created daily by support personnel. After collecting all the details of the incidents maintaining of those tickets is very hard and costly and difficult to analysis each incident without grouping them.
+    \newline
+    To solve this issue, we proposed a machine learning technique which do clustering alters with semi-structured text and clustering incidents with unstructured text. With the help of Natural language process, we have pre-processed the data i.e, data tokenization and removed all the common words i.e, text mining methods. Before clustering we also be working in data quality such that we can able check how good the data is for the clustering them.
+
+    \section{Context of the Project}
+    Organization operating in IT enables business segment over a decade. On an average, the company receive more than 25k IT incidence or tickets. Which are handle to best practice by certain framework which are done by researchers with incident management, problem management etc. 
+    \newline
+    We are developing the framework which help the IT tech companies to visualize the data quality and data clustering. By this company can understand the problem of the user in systematic manner within no time, and the companies  auto robots can answer for the user  problem with more effectively.
+    
+    \section{Objectives and Contributions}
+    
+    
+    \section{Overview of thesis}
 
     \chapter{State of Art}
     Natural language processing (NLP) is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data. The goal is a computer capable of "understanding" the contents of documents, including the contextual nuances of the language within them. The technology can then accurately extract information and insights contained in the documents as well as categorize and organize the documents themselves.
@@ -151,13 +180,64 @@ There are two common clustering algorithms: K-Means and Gaussian Mixture Model.
     and $\sigma_1, sigma_2, ..., sigma_k$. Additionally, there is another parameter for the distribution that defines the number of points for the distribution. Or in other words, the density of the distribution is represented with $\Pi$
 
 
-    \chapter{System's Artchitecture}
+    \section{Text Data Visualization}
+    Data visualization is essential to assist businesses in quickly identifying data trends, which would otherwise be a hassle. The pictorial representation of data sets allows analysts to visualize concepts and new patterns. With the increasing surge in data every day, making sense of the quintillion bytes of data is impossible without Data Proliferation, which includes data visualization.
+    \newline
+    Every professional industry benefits from understanding their data, so \href{https://splashbi.com/visualizations/}{data visualization} is branching out to all fields where data exists. For every business, information is their most significant leverage. Through visualization, one can prolifically convey their points and take advantage of that information
+    
+    \subsection{Importance of Data Visualization}
+    A dashboard, graph, infographics, map, chart, video, slide, etc. all these mediums can be used for visualizing and understanding data. Visualizing the data enable decision-makers to interrelate the data to find better insights and reap the importance of data visualization, which are:
+    \subsubsection{Analysing the Data in a Better Way}
+    Analysing reports helps business stakeholders focus on the areas that require attention. The visual mediums help analysts understand the key points needed for their business. Whether it is a sales report or a marketing strategy, a visual representation of data helps companies increase their profits through better analysis and better business decisions.
+    \subsubsection{Faster Decision Making}
+    Humans process visuals better than any tedious tabular forms or reports. If the data communicates well, decision-makers can quickly take action based on the new data insights, accelerating decision-making, and business growth simultaneously.
+    \subsubsection{Making Sense of Complicated Data}
+    Data visualization allows business users to gain insight into their vast amounts of data. It benefits them to recognize new patterns and errors in the data. Making sense of these patterns helps the users pay attention to areas that indicate red flags or progress. This process, in turn, drives the business ahead.
 
+    \subsection{Tools used for Text Data Visualization}
+    Data visualization tool provides users with an easier way to create visual representations of large data sets. When dealing with data sets that include hundreds of thousands or millions of data points, automating the process of creating a visualization, at least in part, makes a designer’s job significantly easier.
+    \subsubsection{ELK STACK}
+    The ELK stack is an acronym used to describe a stack that comprises of three popular open-source projects: Elasticsearch, Logstash, and Kibana. ELK stack gives us the ability to aggregate logs from all systems and applications, analyze these logs, and create visualizations for application and infrastructure monitoring, faster troubleshooting, security analytics, and more. 
+    \newline \textbf{E = Elasticsearch}
+    \newline
+    Elasticsearch is an open-source, RESTful, distributed search and analytics engine built on Apache Lucene. Support for various languages, high performance, and schema-free JSON documents makes Elasticsearch an ideal choice for various log analytics and search use cases.
+    \newline \textbf{L = Logstash}
+    \newline
+    Logstash is an open-source data ingestion tool that allows you to collect data from a variety of sources, transform it, and send it to your desired destination. With pre-built filters and support for over 200 plugins, Logstash allows users to easily ingest data regardless of the data source or type.
+    \newline \textbf{K = Kibana}
+    \newline
+    Kibana is an open-source data visualization and exploration tool for reviewing logs and events. Kibana offers easy-to-use, interactive charts, pre-built aggregations and filters, and geospatial support and making it the preferred choice for visualizing data stored in Elasticsearch.
+    \newline
+    We have implemented the dashboard with ELK to visualize the ticket data and generate as much insights from it.
+
+
+    \chapter{System's Artchitecture}
+    \section{Insights Dashboard Architecture}
+    Raw Text data can be sent into ELK through Elasticsearch or Logstash. Logstash parses and the transforms the data and push it into Elasticsearch where the data is indexed. Kibana is used to create charts, graphs and dashboards. ELK is scalable and easier to deploy in both cloud and on-premise architecture. Below is the pictorial representation of implementation.
+    
+    \begin{figure}[h]
+        \includegraphics[scale=.5]{dashboard.png}
+        \centering
+        \caption{Dashboard Artchitecture}
+    \end{figure}
+    
+    \section{Clustering System Artchitecture}
+    \begin{figure}[h]
+        \includegraphics[scale=.5]{System's Artchitecture.png}
+        \centering
+        \caption{Clustering System Artchitecture}
+    \end{figure}
     
     \chapter{Methodology}
+    \section{Data Visualization – ELK Dashboard}
+
+    Data visualization is essential to assist businesses in quickly identifying data trends, which would otherwise be a hassle. The pictorial representation of data sets allows analysts to visualize concepts and new patterns. With the increasing surge in data every day, making sense of the quintillion bytes of data is impossible without Data Proliferation, which includes data visualization.
+    \newline
+    Every professional industry benefits from understanding their data, so data visualization is branching out to all fields where data exists. For every business, information is their most significant leverage. Through visualization, one can prolifically convey their points and take advantage of that information
 
 
-    
+    \section{Clustering}
+
     \chapter{Results}
 
 
