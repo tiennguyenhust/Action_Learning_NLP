@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.24)  16 JUL 2021 02:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.24)  16 JUL 2021 02:34
 entering extended mode
 **"e:/Action Learning/Thesis/Thesis.tex"
 ("e:/Action Learning/Thesis/Thesis.tex"
@@ -476,22 +476,28 @@ Overfull \hbox (27.36746pt too wide) in paragraph at lines 118--124
 
  [19
 
-] ("e:/Action Learning\Thesis\Thesis.aux")
+]
+<./images//readability.png, id=336, 242.40562pt x 157.58875pt>
+File: ./images//readability.png Graphic file (type png)
+<use ./images//readability.png>
+Package pdftex.def Info: ./images//readability.png  used on input line 315.
+(pdftex.def)             Requested size: 390.0pt x 253.57065pt.
+ [20 <./images//readability.png>] ("e:/Action Learning\Thesis\Thesis.aux")
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 12A299DC300177BC2D8EC5AE62B34012;1743.
  ) 
 Here is how much of TeX's memory you used:
- 5867 strings out of 479618
- 92955 string characters out of 2865026
+ 5875 strings out of 479618
+ 93131 string characters out of 2865026
  396503 words of memory out of 3000000
- 22863 multiletter control sequences out of 15000+200000
+ 22868 multiletter control sequences out of 15000+200000
  409245 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,8n,74p,1276b,442s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "e:/Action Learning\Thesis\Thesis.pdf" (22 pages, 524008 bytes).
+Output written on "e:/Action Learning\Thesis\Thesis.pdf" (23 pages, 530249 bytes).
 PDF statistics:
- 395 PDF objects out of 1000 (max. 8388607)
- 81 named destinations out of 1000 (max. 500000)
- 252 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 402 PDF objects out of 1000 (max. 8388607)
+ 83 named destinations out of 1000 (max. 500000)
+ 257 words of extra memory for PDF output out of 10000 (max. 10000000)
 
