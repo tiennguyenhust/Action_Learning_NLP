@@ -59,7 +59,6 @@
 
     \setcounter{page}{1}
     \tableofcontents
-    \listoffigures
 
     \begin{abstract}
         Large enterprise Information technology infrastructure components generate large volume of alerts and incident tickets. These are manually screened, but it is otherwise difficult to extract information automatically from them to gain insight in order to improve operational efficiency. We propose a framework to cluster alters and incident tickets based on the text in them, using unsupervised machine learning. This would be a step towards eliminating manual classification of the alters and incidents, which is very labour intense and costly.
@@ -96,9 +95,10 @@
 
     
     \section{Overview of thesis}
+    In this thesis we have implemented various ML and NLP techniques to generate the business insights from the raw text data. We discussed in detail about the clustering of similar tickets and its implementation using various technologies in real time.
 
     \chapter{State of Art}
-    Natural language processing (NLP) \cite{NLPWiki} is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data. The goal is a computer capable of "understanding" the contents of documents, including the contextual nuances of the language within them. The technology can then accurately extract information and insights contained in the documents as well as categorize and organize the documents themselves.
+    Natural language processing (NLP)\cite{NLPWiki} is a subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data. The goal is a computer capable of "understanding" the contents of documents, including the contextual nuances of the language within them. The technology can then accurately extract information and insights contained in the documents as well as categorize and organize the documents themselves.
     In our project, NLP is used to extract information tickets and evaluate the quality of data.
 
     \section{NLP pipeline}
@@ -252,7 +252,7 @@
     \chapter{Methodology}
     \section{Data Visualization – ELK Dashboard}
 
-    We have implemented our visualization architecture in a Ubuntu Machine. Single-Node ELK Stack \cite{ELKLog} is installed in Ubuntu 20.04. Our text data is fairy small and we are not connected into a live stream of tickets. Hence Single Node ELK Stack is sufficient of our analysis. Data is sent into ELK through Logstash, indexed in elastic search and visualized in KIBANA. Custom filters are created that enables the users to make advanced searches and find insights. 
+    We have implemented our visualization architecture in a Ubuntu Machine. Single-Node ELK Stack\cite{ELKLog} is installed in Ubuntu 20.04. Our text data is fairy small and we are not connected into a live stream of tickets. Hence Single Node ELK Stack is sufficient of our analysis. Data is sent into ELK through Logstash, indexed in elastic search and visualized in KIBANA. Custom filters are created that enables the users to make advanced searches and find insights. 
     \newline
     Dash Board can be shared to anyone in the organization’s WLAN and also can be hosted online. But accruing SSH certificates and domain registration are beyond the scope of this project.
 
@@ -281,7 +281,7 @@
     \chapter{Results}
     This document is made in preparation of the actual Action week where our main focus will be the coding and producing actual results. During this preparation and literature review, we are not producing definite results yet. However, we have an idea about what might be possible, and which results previous work yielded. For this chapter, the basis will be previous work and results that they obtained. This will be our goal for next week to reach. We should find adapt existing research to our problem at hand and try to also provide accurate result for this use case.
     \newline\newline
-    There has been a lot of research that studies the similarity between tickets. This gives us some interesting information which can be adapted to our use case. At the moment, ServiceNow is a service that is often used to process tickets. Although they are providing a good service, some improvements can be made. Article \cite{Garrett2020} explores an alternative model to what ServiceNow is providing. They improve the accuracy of ServiceNow from 40\% to 85\%. This is a very significant improvement and also something we should be aiming for during the implementation of our model.
+    There has been a lot of research that studies the similarity between tickets. This gives us some interesting information which can be adapted to our use case. At the moment, ServiceNow is a service that is often used to process tickets. Although they are providing a good service, some improvements can be made. Article\cite{Garrett2020} explores an alternative model to what ServiceNow is providing. They improve the accuracy of ServiceNow from 40\% to 85\%. This is a very significant improvement and also something we should be aiming for during the implementation of our model.
 
     \section{Development Anticipated}
     We have planned perform several statistical tests to analyse the quality of the text data.
@@ -289,13 +289,13 @@
 
     
     \chapter{Conclusion}
-
-
     
     %\nocite{*}
 
     \bibliographystyle{IEEEtran}
     \bibliography{references.bib}
 
+    
+    \listoffigures
 
 \end{document}

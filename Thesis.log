@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.24)  16 JUL 2021 01:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.24)  16 JUL 2021 01:59
 entering extended mode
 **"e:/Action Learning/Thesis/Thesis.tex"
 ("e:/Action Learning/Thesis/Thesis.tex"
@@ -234,56 +234,50 @@ l.33 ...{\numberline {6}Conclusion}{16}{chapter.6}
 \tf@toc=\write4
 \openout4 = `Thesis.toc'.
 
- [2] ("e:/Action Learning\Thesis\Thesis.lof")
-\tf@lof=\write5
-\openout5 = `Thesis.lof'.
-
- [3
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 65--72
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 64--71
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--72
+Underfull \hbox (badness 10000) in paragraph at lines 64--71
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 65--72
+Underfull \hbox (badness 10000) in paragraph at lines 64--71
 
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.72     \end{abstract}
+l.71     \end{abstract}
                         [1]
 Chapter 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--81
+Underfull \hbox (badness 10000) in paragraph at lines 75--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--81
+Underfull \hbox (badness 10000) in paragraph at lines 75--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--88
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
 
  []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.88 
+l.87 
       [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 90--95
+Underfull \hbox (badness 10000) in paragraph at lines 89--94
 
  []
 
@@ -293,7 +287,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has b
 l.100     \chapter
                   {State of Art} [2]
 Chapter 2.
-<./images//nlp_pipeline.png, id=183, 1606.0pt x 441.65pt>
+<./images//nlp_pipeline.png, id=165, 1606.0pt x 441.65pt>
 File: ./images//nlp_pipeline.png Graphic file (type png)
 <use ./images//nlp_pipeline.png>
 Package pdftex.def Info: ./images//nlp_pipeline.png  used on input line 107.
@@ -303,14 +297,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 113--128
 
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.128 
-       [3
+[3
 
  <./images//nlp_pipeline.png (PNG copy)>]
-<./images//bow.png, id=189, 313.17pt x 40.15pt>
+<./images//bow.png, id=174, 313.17pt x 40.15pt>
 File: ./images//bow.png Graphic file (type png)
 <use ./images//bow.png>
 Package pdftex.def Info: ./images//bow.png  used on input line 146.
@@ -326,7 +316,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 130--150
  []
 
 [4]
-<./images//tf-idf.png, id=194, 317.185pt x 114.92938pt>
+<./images//tf-idf.png, id=179, 317.185pt x 114.92938pt>
 File: ./images//tf-idf.png Graphic file (type png)
 <use ./images//tf-idf.png>
 Package pdftex.def Info: ./images//tf-idf.png  used on input line 152.
@@ -423,7 +413,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 216--228
 
 [9]
 Chapter 3.
-<./images//dashboard.png, id=244, 596.2275pt x 420.97275pt>
+<./images//dashboard.png, id=231, 596.2275pt x 420.97275pt>
 File: ./images//dashboard.png Graphic file (type png)
 <use ./images//dashboard.png>
 Package pdftex.def Info: ./images//dashboard.png  used on input line 235.
@@ -433,7 +423,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 232--239
 
  []
 
-<./images//System's Artchitecture.png, id=246, 503.8825pt x 323.2075pt>
+<./images//System's Artchitecture.png, id=233, 503.8825pt x 323.2075pt>
 File: ./images//System's Artchitecture.png Graphic file (type png)
 <use ./images//System's Artchitecture.png>
 Package pdftex.def Info: ./images//System's Artchitecture.png  used on input line 247.
@@ -452,7 +442,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 241--251
 
  <./images//dashboard.png>] [11 <./images//System's Artchitecture.png>]
 Chapter 4.
-<./images//clustering_motho.png, id=258, 604.2575pt x 112.42pt>
+<./images//clustering_motho.png, id=247, 604.2575pt x 112.42pt>
 File: ./images//clustering_motho.png Graphic file (type png)
 <use ./images//clustering_motho.png>
 Package pdftex.def Info: ./images//clustering_motho.png  used on input line 262.
@@ -474,22 +464,28 @@ Chapter 6.
 
 ]) [17
 
+] ("e:/Action Learning\Thesis\Thesis.lof")
+\tf@lof=\write5
+\openout5 = `Thesis.lof'.
+
+ [18
+
 ] ("e:/Action Learning\Thesis\Thesis.aux")
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
 (rerunfilecheck)             Checksum: 649E540FD8E7EA3328FBC472191E01E9;1744.
  ) 
 Here is how much of TeX's memory you used:
- 5689 strings out of 479618
- 90727 string characters out of 2865026
+ 5690 strings out of 479618
+ 90734 string characters out of 2865026
  392201 words of memory out of 3000000
  22702 multiletter control sequences out of 15000+200000
  408290 words of font info for 43 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,8n,74p,1276b,364s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on "e:/Action Learning\Thesis\Thesis.pdf" (22 pages, 459662 bytes).
+Output written on "e:/Action Learning\Thesis\Thesis.pdf" (22 pages, 459922 bytes).
 PDF statistics:
- 353 PDF objects out of 1000 (max. 8388607)
- 69 named destinations out of 1000 (max. 500000)
+ 354 PDF objects out of 1000 (max. 8388607)
+ 70 named destinations out of 1000 (max. 500000)
  252 words of extra memory for PDF output out of 10000 (max. 10000000)
 
