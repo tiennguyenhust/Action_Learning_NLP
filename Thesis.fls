@@ -349,6 +349,17 @@ INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uni
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\latex-tools\varioref.sty
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\latex-tools\varioref.sty
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\latex-tools\varioref.sty
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\latex-tools\varioref.sty
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\latex-tools\varioref.sty
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\latex-tools\varioref.sty
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\latex-tools\varioref.sty
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\latex-tools\varioref.sty
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\latex-tools\varioref.sty
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\latex-tools\varioref.sty
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\latex-tools\varioref.sty
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
@@ -453,14 +464,16 @@ INPUT .\images\\EPITA.jpg
 INPUT .\images\\EPITA.jpg
 INPUT .\images\\EPITA.jpg
 INPUT C:\Users\Admin\AppData\Local\MiKTeX\pdftex\config\pdftex.map
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT e:\Action Learning\Thesis\Thesis.toc
 INPUT e:\Action Learning\Thesis\Thesis.toc
 INPUT e:\Action Learning\Thesis\Thesis.toc
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
-INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
@@ -516,6 +529,7 @@ INPUT e:\Action Learning\Thesis\Thesis.bbl
 INPUT e:\Action Learning\Thesis\Thesis.bbl
 INPUT e:\Action Learning\Thesis\Thesis.bbl
 INPUT e:\Action Learning\Thesis\Thesis.bbl
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
 INPUT e:\Action Learning\Thesis\Thesis.lof
 INPUT e:\Action Learning\Thesis\Thesis.lof
 INPUT e:\Action Learning\Thesis\Thesis.lof
@@ -523,14 +537,18 @@ OUTPUT e:\Action Learning\Thesis\Thesis.lof
 INPUT e:\Action Learning\Thesis\Thesis.aux
 INPUT e:\Action Learning\Thesis\Thesis.out
 INPUT e:\Action Learning\Thesis\Thesis.out
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
-INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
@@ -543,3 +561,5 @@ INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\c
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy6.pfb
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb

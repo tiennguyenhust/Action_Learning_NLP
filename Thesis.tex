@@ -5,7 +5,13 @@
 \usepackage[shortlabels]{enumitem}
 \usepackage{graphicx}
 \usepackage{hyperref}
+\usepackage{varioref}
 
+% \usepackage{verbatim}
+% \newcommand{\detailtexcount}[1]{%
+% \immediate\write18{texcount -merge -sum -q #1.tex references.bib > #1.wcdetail }%
+% \verbatiminput{#1.wcdetail}%
+% }
 
 \graphicspath{ {./images/} }
 \hypersetup{
@@ -30,8 +36,8 @@
             \end{figure}
     
             \begin{center}
-                \centerline{Arun singh Sivaprakash}
-                \centerline{Pramod kumar Nagaraj}
+                \centerline{Arun Singh SIVAPRAKASH}
+                \centerline{Pramod Kumar NAGARAJ}
                 \centerline{Van Tien NGUYEN}
                 \centerline{Alexander POPPE}
             \end{center}
@@ -43,7 +49,7 @@
                 
             \begin{center}
                 \centerline{Advisor}
-                \centerline{ Olivier Berthet}
+                \centerline{ Olivier BERTHET}
             \end{center}
         
             \begin{center}
@@ -58,7 +64,11 @@
 
 
     \setcounter{page}{1}
-    \tableofcontents
+    \small\tableofcontents
+
+    
+    % \pagebreak
+    % \detailtexcount{Thesis}
 
     \begin{abstract}
         Large enterprise Information technology infrastructure components generate large volume of alerts and incident tickets. These are manually screened, but it is otherwise difficult to extract information automatically from them to gain insight in order to improve operational efficiency. We propose a framework to cluster alters and incident tickets based on the text in them, using unsupervised machine learning. This would be a step towards eliminating manual classification of the alters and incidents, which is very labour intense and costly.
@@ -199,7 +209,7 @@
     \section{Text Data Visualization}
     Data visualization is essential to assist businesses in quickly identifying data trends, which would otherwise be a hassle. The pictorial representation of data sets allows analysts to visualize concepts and new patterns. With the increasing surge in data every day, making sense of the quintillion bytes of data is impossible without Data Proliferation, which includes data visualization.
     \newline\newline
-    Every professional industry benefits from understanding their data, so data visualization\cite{DataVizImportance} is branching out to all fields where data exists. For every business, information is their most significant leverage. Through visualization, one can prolifically convey their points and take advantage of that information
+    Every professional industry benefits from understanding their data, so data visualization \cite{DataVizImportance} is branching out to all fields where data exists. For every business, information is their most significant leverage. Through visualization, one can prolifically convey their points and take advantage of that information
     
     \subsection{Importance of Data Visualization}
     A dashboard, graph, infographics, map, chart, video, slide, etc. all these mediums can be used for visualizing and understanding data. Visualizing the data enable decision-makers to interrelate the data to find better insights and reap the importance of data visualization\cite{DataVizImportance}, which are:
@@ -227,7 +237,7 @@
     We have implemented the dashboard with ELK to visualize the ticket data and generate as much insights from it.
 
 
-    \chapter{System's Artchitecture}
+    \chapter{System's Architecture}\label{SystemArchitechture}
     \section{Insights Dashboard Architecture}
     Raw Text data can be sent into ELK through Elasticsearch or Logstash. Logstash parses and the transforms the data and push it into Elasticsearch where the data is indexed. Kibana is used to create charts, graphs and dashboards. ELK is scalable and easier to deploy in both cloud and on-premise architecture. Below is the pictorial representation of implementation.
     \newline\newline
@@ -289,13 +299,16 @@
 
     
     \chapter{Conclusion}
+    In this paper, we explained the background of our challenge which is the need for an improved IT System Management (ITSM). This includes two main parts, mapping similarity between tickets and visualising the quality of a ticket. In our literature review, we found state-of-the-art implementations of ITSM and NLP implementations that can help us to reach our goal. The remaining time of this project, we will focus on the coding part and adapting all research to our specific use case. The key in this research is to present our results with to-the-point visualisations for which we will use a dashboard as described in chapter \vref{SystemArchitechture}.
+
     
-    %\nocite{*}
+    \nocite{*}
 
     \bibliographystyle{IEEEtran}
     \bibliography{references.bib}
 
     
     \listoffigures
+    
 
 \end{document}
