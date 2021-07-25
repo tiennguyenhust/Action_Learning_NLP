@@ -30,4 +30,5 @@
 \contentsline {section}{\numberline {4.5}Label generation}{13}{section.4.5}%
 \contentsline {chapter}{\numberline {5}Results}{15}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Development Anticipated}{15}{section.5.1}%
-\contentsline {chapter}{\numberline {6}Conclusion}{16}{chapter.6}%
+\contentsline {section}{\numberline {5.2}Thesis Development Updated}{15}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Conclusion}{17}{chapter.6}%

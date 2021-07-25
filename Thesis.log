@@ -1,9 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.24)  16 JUL 2021 02:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.24)  26 JUL 2021 00:43
 entering extended mode
 **"e:/Action Learning/Thesis/Thesis.tex"
 ("e:/Action Learning/Thesis/Thesis.tex"
 LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-01-09> xparse <2020-03-03> (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+L3 programming layer <2021-01-09> xparse <2020-03-03>
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
 Document Class: report 2020/04/10 v1.4m Standard LaTeX document class
 (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
@@ -20,7 +21,8 @@ File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \enitkv@toks@=\toks15
 \labelindent=\skip49
@@ -29,51 +31,76 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@inbox=\box47
 \enit@count@id=\count186
 \enitdp@description=\count187
-) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
- (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen140
 \Gin@req@width=\dimen141
-) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
- (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
-) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 ) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen142
@@ -83,9 +110,11 @@ Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count190
@@ -103,10 +132,14 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5076.
 \XeTeXLinkMargin=\dimen143
- (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
 ))
 \Fld@menulength=\count192
 \Field@Width=\dimen144
@@ -120,8 +153,10 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6372.
 Package hyperref Info: PDF/A mode OFF on input line 6377.
 LaTeX Info: Redefining \ref on input line 6417.
 LaTeX Info: Redefining \pageref on input line 6421.
- (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
-Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi package
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
 with kernel methods
 )
 \Hy@abspage=\count193
@@ -129,28 +164,39 @@ with kernel methods
 \c@Hfootnote=\count195
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
- (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery package
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
 with kernel methods
 )
 \Fld@listcount=\count196
 \c@bookmark@seq@number=\count197
- (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
- (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
 )
 \Hy@SectionHShift=\skip50
-) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\varioref.sty
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\varioref.st
+y
 Package: varioref 2020/08/11 v1.6e package for extended references (FMi)
 \c@vrcnt=\count198
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 23.
- (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
 File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count199
 \l__pdf_internal_box=\box48
@@ -173,7 +219,9 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
- (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count266
 \scratchdimen=\dimen146
@@ -186,12 +234,17 @@ LaTeX Font Info:    ... okay on input line 25.
 \MPnumerator=\count270
 \makeMPintoPDFobject=\count271
 \everyMPtoPDFconversion=\toks19
-) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
-) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
 Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
- (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
@@ -199,9 +252,12 @@ Package color Info: Driver file: pdftex.def on input line 147.
 Package hyperref Info: Link coloring ON on input line 25.
  (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
- (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+)
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count272
@@ -210,19 +266,22 @@ LaTeX Info: Redefining \Ref on input line 520.
 LaTeX Info: Redefining \ref on input line 25.
 LaTeX Info: Redefining \pageref on input line 25.
 LaTeX Info: Redefining \nameref on input line 25.
- ("e:/Action Learning\Thesis\Thesis.out") ("e:/Action Learning\Thesis\Thesis.out")
+ ("e:/Action Learning\Thesis\Thesis.out")
+("e:/Action Learning\Thesis\Thesis.out")
 \@outlinefile=\write3
 \openout3 = `Thesis.out'.
 
 LaTeX Info: Redefining \Ref on input line 25.
-<./images//EPITA.jpg, id=111, 174.4335pt x 117.9315pt>
+<./images//EPITA.jpg, id=115, 174.4335pt x 117.9315pt>
 File: ./images//EPITA.jpg Graphic file (type jpg)
 <use ./images//EPITA.jpg>
 Package pdftex.def Info: ./images//EPITA.jpg  used on input line 34.
 (pdftex.def)             Requested size: 174.43306pt x 117.9312pt.
  [1
 
-{C:/Users/Admin/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./images//EPITA.jpg>] ("e:/Action Learning\Thesis\Thesis.toc"
+{C:/Users/Admin/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./images//EPITA
+.jpg>]
+("e:/Action Learning\Thesis\Thesis.toc"
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -233,7 +292,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write4
 \openout4 = `Thesis.toc'.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.73     \begin{abstract}
@@ -254,7 +314,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 74--81
 
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.81     \end{abstract}
@@ -275,7 +336,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--97
 
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.97 
@@ -288,7 +350,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 99--104
 
 [2]
 Chapter 2.
-<./images//nlp_pipeline.png, id=164, 1606.0pt x 441.65pt>
+<./images//nlp_pipeline.png, id=169, 1606.0pt x 441.65pt>
 File: ./images//nlp_pipeline.png Graphic file (type png)
 <use ./images//nlp_pipeline.png>
 Package pdftex.def Info: ./images//nlp_pipeline.png  used on input line 117.
@@ -301,7 +363,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 123--138
 [3
 
  <./images//nlp_pipeline.png (PNG copy)>]
-<./images//bow.png, id=172, 313.17pt x 40.15pt>
+<./images//bow.png, id=177, 313.17pt x 40.15pt>
 File: ./images//bow.png Graphic file (type png)
 <use ./images//bow.png>
 Package pdftex.def Info: ./images//bow.png  used on input line 156.
@@ -317,7 +379,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 140--160
  []
 
 [4]
-<./images//tf-idf.png, id=183, 317.185pt x 114.92938pt>
+<./images//tf-idf.png, id=188, 317.185pt x 114.92938pt>
 File: ./images//tf-idf.png Graphic file (type png)
 <use ./images//tf-idf.png>
 Package pdftex.def Info: ./images//tf-idf.png  used on input line 162.
@@ -409,7 +471,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 226--238
 
 [8] [9]
 Chapter 3.
-<./images//dashboard.png, id=229, 596.2275pt x 420.97275pt>
+<./images//dashboard.png, id=234, 596.2275pt x 420.97275pt>
 File: ./images//dashboard.png Graphic file (type png)
 <use ./images//dashboard.png>
 Package pdftex.def Info: ./images//dashboard.png  used on input line 245.
@@ -419,10 +481,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 242--249
 
  []
 
-<./images//System's Artchitecture.png, id=231, 503.8825pt x 323.2075pt>
+<./images//System's Artchitecture.png, id=236, 503.8825pt x 323.2075pt>
 File: ./images//System's Artchitecture.png Graphic file (type png)
 <use ./images//System's Artchitecture.png>
-Package pdftex.def Info: ./images//System's Artchitecture.png  used on input line 257.
+Package pdftex.def Info: ./images//System's Artchitecture.png  used on input li
+ne 257.
 (pdftex.def)             Requested size: 390.0pt x 250.15773pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 251--261
@@ -438,10 +501,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 251--261
 
  <./images//dashboard.png>] [11 <./images//System's Artchitecture.png>]
 Chapter 4.
-<./images//clustering_motho.png, id=246, 604.2575pt x 112.42pt>
+<./images//clustering_motho.png, id=251, 604.2575pt x 112.42pt>
 File: ./images//clustering_motho.png Graphic file (type png)
 <use ./images//clustering_motho.png>
-Package pdftex.def Info: ./images//clustering_motho.png  used on input line 272.
+Package pdftex.def Info: ./images//clustering_motho.png  used on input line 272
+.
 (pdftex.def)             Requested size: 390.0pt x 72.55751pt.
 [12
 
@@ -454,50 +518,67 @@ Underfull \hbox (badness 10000) in paragraph at lines 292--295
 
 [15
 
-]
+] [16]
 Chapter 6.
-("e:/Action Learning\Thesis\Thesis.bbl" [16
+("e:/Action Learning\Thesis\Thesis.bbl" [17
 
 ]
 Underfull \hbox (badness 1205) in paragraph at lines 58--62
-[]\OT1/cmr/m/n/10.95 ``Importance, Pur-pose, and Ben-e-fit of Data Vi-su-al-iza-
+[]\OT1/cmr/m/n/10.95 ``Importance, Pur-pose, and Ben-e-fit of Data Vi-su-al-iza
+-
  []
 
-[17
+[18
 
 ]
 Overfull \hbox (27.36746pt too wide) in paragraph at lines 118--124
-\OT1/cmr/m/n/10.95 Exploiting-[]Natural-[]Language-[]Processing-[]for-[]Analysing-[]Railway-[]Incident-[]Reports .
+\OT1/cmr/m/n/10.95 Exploiting-[]Natural-[]Language-[]Processing-[]for-[]Analysi
+ng-[]Railway-[]Incident-[]Reports .
  []
 
-) [18] ("e:/Action Learning\Thesis\Thesis.lof")
+) [19] ("e:/Action Learning\Thesis\Thesis.lof")
 \tf@lof=\write5
 \openout5 = `Thesis.lof'.
 
- [19
+ [20
 
 ]
-<./images//readability.png, id=336, 242.40562pt x 157.58875pt>
+<./images//readability.png, id=345, 242.40562pt x 157.58875pt>
 File: ./images//readability.png Graphic file (type png)
 <use ./images//readability.png>
-Package pdftex.def Info: ./images//readability.png  used on input line 315.
+Package pdftex.def Info: ./images//readability.png  used on input line 319.
 (pdftex.def)             Requested size: 390.0pt x 253.57065pt.
- [20 <./images//readability.png>] ("e:/Action Learning\Thesis\Thesis.aux")
+ [21 <./images//readability.png>] ("e:/Action Learning\Thesis\Thesis.aux")
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 12A299DC300177BC2D8EC5AE62B34012;1743.
+(rerunfilecheck)             Checksum: DAC8D45F49F72BA7162E4753CDD9B225;1816.
  ) 
 Here is how much of TeX's memory you used:
- 5875 strings out of 479618
- 93131 string characters out of 2865026
+ 5878 strings out of 479618
+ 93162 string characters out of 2865026
  396503 words of memory out of 3000000
- 22868 multiletter control sequences out of 15000+200000
+ 22869 multiletter control sequences out of 15000+200000
  409245 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  71i,8n,74p,1276b,442s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "e:/Action Learning\Thesis\Thesis.pdf" (23 pages, 530249 bytes).
+<C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmbx10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmbx12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Admin/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Admin/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Admin/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Admin/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/A
+dmin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/
+Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmsy6.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmsy8.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmti10.pfb>
+Output written on "e:/Action Learning\Thesis\Thesis.pdf" (24 pages, 532517 byte
+s).
 PDF statistics:
- 402 PDF objects out of 1000 (max. 8388607)
- 83 named destinations out of 1000 (max. 500000)
- 257 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 412 PDF objects out of 1000 (max. 8388607)
+ 85 named destinations out of 1000 (max. 500000)
+ 265 words of extra memory for PDF output out of 10000 (max. 10000000)
 

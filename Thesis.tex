@@ -297,6 +297,10 @@
     We have planned perform several statistical tests to analyse the quality of the text data.
     As a part of insights generation from data we have planned to implement a dashboard with ELK stack. In Clustering Application, we intent to group the cluster the tickets and build a model that can interact with the Streamlit UI and FastAPI to return details of the similar tickets.
 
+    \section{Thesis Development Updated}
+    In the clustering, we anticipated using Kmeans and GMM so that we could compare the performance of the two models. However, in real development, we faced some problems with these models. That was the quality of clustering and the performance when training models. Although we used google-colab which runs on GPU, it still took hours to fit the data.
+    Therefore, we changed to use the Latent Dirichlet Allocation (LDA) which returns a better result. We also use CountVectorizer to transform data to get the embedded data. This model not only gives better clustering but also gives a good performance which was about one minute to get vector data and three minutes to train data.
+    
     
     \chapter{Conclusion}
     In this paper, we explained the background of our challenge which is the need for an improved IT System Management (ITSM). This includes two main parts, mapping similarity between tickets and visualising the quality of a ticket. In our literature review, we found state-of-the-art implementations of ITSM and NLP implementations that can help us to reach our goal. The remaining time of this project, we will focus on the coding part and adapting all research to our specific use case. The key in this research is to present our results with to-the-point visualisations for which we will use a dashboard as described in chapter \vref{SystemArchitechture}.
