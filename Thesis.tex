@@ -298,6 +298,9 @@
     As a part of insights generation from data we have planned to implement a dashboard with ELK stack. In Clustering Application, we intent to group the cluster the tickets and build a model that can interact with the Streamlit UI and FastAPI to return details of the similar tickets.
 
     \section{Thesis Development Updated}
+    The quality calculation is based on four metrics: the noun ratio, verb ratio, readability and number of words. This can still be expanded by including more metrics in the formulas. The ratios of punctuation signs such as exclamation marks, points, comma's, etc. could be added. We have used two part of speech (verb and noun), others could also be looked into such as adjectives, adverbs, etc. In our results, we saw that very technical information could result in a low readability score. This is normal since very technical information is often not easy to understand unless you have the specific knowledge. In some cases, this could lead to a higher drop in quality than necessary.
+    Although our metric gives a general good result, more thorough research in the metrics can lead to improvement of the exceptions.
+    \newline\newline
     In the clustering, we anticipated using Kmeans and GMM so that we could compare the performance of the two models. However, in real development, we faced some problems with these models. That was the quality of clustering and the performance when training models. Although we used google-colab which runs on GPU, it still took hours to fit the data.
     Therefore, we changed to use the Latent Dirichlet Allocation (LDA) which returns a better result. We also use CountVectorizer to transform data to get the embedded data. This model not only gives better clustering but also gives a good performance which was about one minute to get vector data and three minutes to train data.
     
